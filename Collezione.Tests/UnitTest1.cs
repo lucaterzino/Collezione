@@ -22,7 +22,6 @@ namespace Collezione.Tests
         }
 
         //Non sono uguali poichè i due array hanno due indirizzi diversi
-
         [TestMethod]
         public void TestArray2()
         {
